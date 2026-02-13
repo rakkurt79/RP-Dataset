@@ -47,5 +47,5 @@ The dataset is hosted on Google Drive:
 ---
 
 ### 📝 Citation
-If you use this dataset in your research, please cite the original study:
-*Cite the paper here once published.*
+Please cite the original study:
+*.....................*
