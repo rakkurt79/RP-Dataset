@@ -10,8 +10,8 @@ The dataset is intended for research and experimental purposes.
 - Image format: `JPG / PNG`
 - Annotation format: `YOLO / COCO / JSON / TXT`
 - Image resolution: `640×640`
-- Number of images: `[N]`
-- Number of classes: `[X]`
+- Number of images: `1603`
+- Number of classes: `4600`
 
 ### 📌 Classes
 | ID | Class Name |
@@ -27,21 +27,7 @@ The dataset is hosted on Google Drive:
 👉 **RP-Dataset (Google Drive)**  
 [https://drive.google.com/XXXXXXXXXXXXXXXX](https://drive.google.com/XXXXXXXXXXXXXXXX)
 
-> Note: A Google account may be required to access the dataset.
+> Note: The link will be available after review.
 
 ---
 
-## 📂 Directory Structure
-
-```text
-RP-Dataset/
-├── train/
-│   ├── images/
-│   └── labels/
-├── valid/
-│   ├── images/
-│   └── labels/
-├── test/
-│   ├── images/
-│   └── labels/
-└── README.md
