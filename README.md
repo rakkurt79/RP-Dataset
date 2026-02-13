@@ -7,7 +7,7 @@ The dataset is specifically designed for research and experimental purposes in t
 
 ## 🌲 Dataset Overview
 
-Post-fire forest restoration is vital for ecosystem re-establishment, biodiversity conservation, and climate change adaptation. Accurate monitoring of seedling density—especially for dominant species like **Red Pine (*Pinus brutia*)**—is essential. 
+Post-fire forest restoration is vital for ecosystem re-establishment, biodiversity conservation and climate change adaptation. Accurate monitoring of seedling density especially for dominant species like **Red Pine (*Pinus brutia*)** is essential. 
 
 Traditional field studies are labor-intensive and prone to error in challenging terrains. **RP-Dataset** provides the first comprehensive drone imagery dataset specifically curated to detect **0-1-year-old red pine seedlings**, enabling the development of next-generation AI models for adaptive forest management.
 
@@ -18,7 +18,7 @@ Traditional field studies are labor-intensive and prone to error in challenging 
 - **Image resolution:** `640×640`
 - **Number of images:** `1,603`
 - **Total Annotations:** `4,600` seedlings
-- **Key Challenges:** Small object detection, weed occlusion, and varied spatial distributions.
+- **Key Challenges:** Small object detection, weed occlusion and varied spatial distributions.
 
 ### 📌 Classes
 | ID | Class Name | Description |
